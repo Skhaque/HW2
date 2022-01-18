@@ -1,1 +1,1 @@
-# HW2
+# I did all the things in the homework correctly, and for somereason it created a second branch, but that branch does have what was asked. I remembered that we had a conversation where Git and Github named "Main" and "Master" as the same thing but it wasn't. I assume the branch occured due to that mismatch. I tried to rename in the local repository and get it into one branch, specifically "main" but I didn't have a lot of luck as I don't have a lot of experience with Git or Github.
